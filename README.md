@@ -3,7 +3,7 @@
 Implementation of popular "Dark Mode" feature.
 
 ## Screenshots
-![Theming Example.gif](https://gph.is/g/ZynMoRd)
+![Theming Example.gif](https://media.giphy.com/media/dXXXsEhVDhDWJYkfm2/giphy.gif)
 ## Built With
 
 * [Android Studio](https://developer.android.com/studio) - The IDE used
