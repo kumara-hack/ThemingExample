@@ -3,15 +3,19 @@
 Implementation of popular "Dark Mode" feature.
 
 ## Screenshots
+
 ![Theming Example.gif](https://media.giphy.com/media/dXXXsEhVDhDWJYkfm2/giphy.gif)
+
 ## Built With
 
-* [Android Studio](https://developer.android.com/studio) - The IDE used
-* [Maven](https://maven.apache.org/) - Dependency Management
+- [Android Studio](https://developer.android.com/studio) - The IDE used
+- [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Authors
 
-* **Yash Mutha** - *Initial work* - [muthayashm](https://github.com/muthayashm)
+- **Yash Mutha** - _Initial work_ - [muthayashm](https://github.com/muthayashm)
+
+- **Shivam Srivastava** - _not disclose_ - [shivam-srivastav](https:github.com/shivam-srivastav)
 
 ## License
 
